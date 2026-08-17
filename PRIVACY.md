@@ -60,7 +60,7 @@ Depending on your jurisdiction (GDPR, CCPA, or equivalent), you may have rights 
 
 We may update this Privacy Policy from time to time. The latest version is always available at:
 
-<https://github.com/0xR0/noads/blob/main/PRIVACY.md>
+<https://github.com/0xR0/noads-privacy/blob/main/PRIVACY.md>
 
 Material changes will be communicated in-app or via the store listing.
 
